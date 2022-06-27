@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012692651326",
+    "project_id": "diagnosisandprediction",
+    "storage_bucket": "diagnosisandprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012692651326:android:e344268b0998d58912b06f",
+        "android_client_info": {
+          "package_name": "com.example.dagnosis_and_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012692651326-b4o7fcv7mgtahll3ss9kep6rub367j7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dagnosis_and_prediction",
+            "certificate_hash": "b644c47c4f393dbee0f460912cb60984e2f94c73"
+          }
+        },
+        {
+          "client_id": "1012692651326-pumapr7r5sl28u21ipmp0ut3e8h4nga5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjdmtL68e_0OF_CgWJbqWHb_qGPnBhhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012692651326-pumapr7r5sl28u21ipmp0ut3e8h4nga5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
